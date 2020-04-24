@@ -67,7 +67,7 @@ Note:- Don't remove termux from background while using kali linux in VNC viwer b
 https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
 
 ### Chekout our webite 
-https://www.yhttps://hackershub.abhi6722.in
+https://hackershub.abhi6722.in
      
 ### Warning
 
