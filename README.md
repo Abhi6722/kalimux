@@ -7,9 +7,9 @@
 
 Kalimux is a bash based script which automatically installs kali linux in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722/kalimux)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722/kalimux)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722s/kalimux)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#kalimux)
 
 ![photo_2019-04-16_17-23-52](https://user-images.githubusercontent.com/49580304/56208939-f9cb5700-606f-11e9-9d4c-ae3080238309.jpg)
@@ -64,10 +64,10 @@ Now the the gui of kali linux has been started in VNC viewer so start practising
 Note:- Don't remove termux from background while using kali linux in VNC viwer beacuse the vnc host files are present in termux app so...
 ```
 ### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
 
 ### Chekout our webite 
-https://www.noob-hackers.com
+https://www.yhttps://hackershub.abhi6722.in
      
 ### Warning
 
